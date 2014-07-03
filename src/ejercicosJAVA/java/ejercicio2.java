@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ejercicos.java;
+package ejercicosJAVA.java;
 
 import javax.swing.JOptionPane;
 
