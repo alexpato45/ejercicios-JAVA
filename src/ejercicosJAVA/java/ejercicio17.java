@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
  */
 public class ejercicio17 {
      public static void main(String[] args){
-         String numero=JOptionPane.showInputDialog("Ingrese la frase");
+         String numero=JOptionPane.showInputDialog("Ingrese un numero en palabras");
          System.out.print(letraanum(numero));
      }
     public static String letraanum(String numero){
