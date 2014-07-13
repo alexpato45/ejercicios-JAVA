@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ejerciciosfunciones;
+package ejercicosJAVA.java;
 
 /**
  *
